@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend (not needed for backend deployment)
+frontend/
+node_modules/
+
+# Documentation
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore
+
+# Batch files (Windows)
+*.bat
+
+# Data files (will be included, but ignore large ones if any)
+# Uncomment if you have very large data files
+# data/*.csv
+

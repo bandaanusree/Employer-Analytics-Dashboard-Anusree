@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.pkl
+*.pickle
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Large Data Files
+# Note: data/transformed_*.csv files contain REAL data (transformed from Real Data folder)
+# These are required for dashboard deployment
+*.csv
+!data/transformed_*.csv
+!Real Data/**/*.csv
+# Exclude large postings.csv (492MB - exceeds GitHub 100MB limit)
+Real Data/postings.csv
+
+# Unnecessary files
+allfiles.txt
+
+# Python scripts output
+python/scripts/
+*.pkl
+*.pickle
+

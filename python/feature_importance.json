@@ -1,0 +1,170 @@
+{
+  "salary_model": {
+    "top_features": [
+      [
+        "JobTitle_Encoded",
+        0.30781432699528133
+      ],
+      [
+        "Location_Encoded",
+        0.15572167602378534
+      ],
+      [
+        "RoleLevel_Encoded",
+        0.1547277189237391
+      ],
+      [
+        "Industry_Encoded",
+        0.1191626787208469
+      ],
+      [
+        "Has_Legal",
+        0.030426827390145125
+      ],
+      [
+        "Has_Manufacturing",
+        0.028811223005522083
+      ],
+      [
+        "Has_Engineering",
+        0.02305991340163918
+      ],
+      [
+        "Has_Health Care Provider",
+        0.016946565736280804
+      ],
+      [
+        "Has_Other",
+        0.015855289988500564
+      ],
+      [
+        "Has_Administrative",
+        0.015615462704341762
+      ],
+      [
+        "Has_Finance",
+        0.015295533158695201
+      ],
+      [
+        "Has_Product Management",
+        0.013142114383246311
+      ],
+      [
+        "Has_Management",
+        0.012299315717500182
+      ],
+      [
+        "Has_Information Technology",
+        0.009644490706419257
+      ],
+      [
+        "Has_Business Development",
+        0.009156611974219585
+      ],
+      [
+        "Has_Sales",
+        0.007598345432291815
+      ],
+      [
+        "Has_Research",
+        0.007394614727563614
+      ],
+      [
+        "Has_Strategy/Planning",
+        0.007063664181740769
+      ],
+      [
+        "Has_Customer Service",
+        0.0062410905374078686
+      ],
+      [
+        "Has_Accounting/Auditing",
+        0.005429485414343134
+      ]
+    ]
+  },
+  "compensation_type_model": {
+    "top_features": [
+      [
+        "JobTitle_Encoded",
+        0.0
+      ],
+      [
+        "RoleLevel_Encoded",
+        0.0
+      ],
+      [
+        "Location_Encoded",
+        0.0
+      ],
+      [
+        "Industry_Encoded",
+        0.0
+      ],
+      [
+        "RemoteType_Encoded",
+        0.0
+      ],
+      [
+        "Has_Accounting/Auditing",
+        0.0
+      ],
+      [
+        "Has_Production",
+        0.0
+      ],
+      [
+        "Has_Human Resources",
+        0.0
+      ],
+      [
+        "Has_Management",
+        0.0
+      ],
+      [
+        "Has_Sales",
+        0.0
+      ],
+      [
+        "Has_Quality Assurance",
+        0.0
+      ],
+      [
+        "Has_Engineering",
+        0.0
+      ],
+      [
+        "Has_Advertising",
+        0.0
+      ],
+      [
+        "Has_Customer Service",
+        0.0
+      ],
+      [
+        "Has_Product Management",
+        0.0
+      ],
+      [
+        "Has_Health Care Provider",
+        0.0
+      ],
+      [
+        "Has_Supply Chain",
+        0.0
+      ],
+      [
+        "Has_Project Management",
+        0.0
+      ],
+      [
+        "Has_General Business",
+        0.0
+      ],
+      [
+        "Has_Business Development",
+        0.0
+      ]
+    ]
+  }
+}
